@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should Capture snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    data-testid="Name"
+  />
+  <button
+    data-testid="changeName"
+  >
+    Change Name
+  </button>
+</DocumentFragment>
+`;
