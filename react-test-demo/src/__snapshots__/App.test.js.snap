@@ -6,6 +6,15 @@ exports[`should take a Snapshot 1`] = `
     class="App"
   >
     A basic React App
+    <div
+      data-testid="show-data"
+    >
+       
+      <div
+        class="User"
+      />
+       
+    </div>
   </div>
 </DocumentFragment>
 `;
